@@ -1,0 +1,25 @@
+Page Number
+Times New Roman
+Index Page
+Abstract- should be one page
+Regerences that  you follow
+12 - Font size
+A.	Utility Bill Payments, Over the Counter Payments, QR Code (Scan and Pay) payments.
+
+
+Resourse- 
+https://www.npci.org.in/what-we-do/upi/product-overview
+https://www.npci.org.in/PDF/npci/upi/Product-Booklet.pdf
+https://business.paytm.com/docs/upi-solutions/
+http://14.99.188.242:8080/jspui/bitstream/123456789/14718/1/1NZ19MBA71.pdf
+http://draw.to/new
+https://www.youtube.com/watch?v=tX7oPYXWwOM&t=1s
+https://www.youtube.com/watch?v=83-S5Qu6VP8   ### SRS video reference
+https://www.quora.com/What-are-some-functional-and-non-functional-requirements-for-Paytm   # Quera Link
+https://www.geeksforgeeks.org/how-to-write-a-good-srs-for-your-project/  ## To know the how the srs document
+\\\ Case Study By Research Gate
+https://www.researchgate.net/publication/320661583_Unified_Payment_Interface-An_Advancement_in_Payment_Systems
+// 2nd Case Study
+https://www.ijraset.com/research-paper/upi-challenge-and-direction-in-fund-management-with-banking-sector
+
+
